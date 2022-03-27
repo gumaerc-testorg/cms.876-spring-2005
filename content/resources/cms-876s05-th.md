@@ -10,8 +10,8 @@ image_metadata:
   image-alt: A US World War II propaganda poster showing a Nazi/Japanese monster destroying
     the Statue of Liberty.
 learning_resource_types: []
-ocw_type: OCWImage
 resourcetype: Image
 title: cms-876s05-th.jpg
+type: OCWImage
 uid: 9f5503c3-44db-5b4f-5533-009552a43aa7
 ---

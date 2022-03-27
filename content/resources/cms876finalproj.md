@@ -6,10 +6,10 @@ file: /media/courses/cms-876-history-of-media-and-technology-spring-2005/b34c7c5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: cms876finalproj.pdf
+type: OCWFile
 uid: b34c7c5b-d5ba-c8b6-2960-2e8f5fc1c80c
 ---

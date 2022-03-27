@@ -9,8 +9,8 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-ocw_type: OCWImage
 resourcetype: Image
 title: chp_eternal_war.jpg
+type: OCWImage
 uid: 2877bbb9-2b6b-1c6b-4b2a-fe6747dd7dc5
 ---
