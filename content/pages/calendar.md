@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: The calendar section contains table listing topics and keydates according
+  to sessions.
 learning_resource_types: []
+ocw_type: ''
 title: Calendar
-type: CourseSection
 uid: 4e1c08e6-a4a1-9f7f-d2e4-658b6a316b79
 ---
 
