@@ -3,6 +3,7 @@ content_type: resource
 description: History of Media and Technology course recruitment poster. (Image by
   Beth Coleman.)
 file: /courses/cms-876-history-of-media-and-technology-spring-2005/2877bbb92b6b1c6b4b2afe6747dd7dc5_chp_eternal_war.jpg
+file_size: 66110
 file_type: image/jpeg
 image_metadata:
   caption: ''

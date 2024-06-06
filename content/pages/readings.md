@@ -89,11 +89,11 @@ Fictions of War, Philosophy of War, History of War
 {{< tdopen >}}
 
 
-Orwell, George. {{% resource_link "fa3f75c8-1676-4197-b595-43511dabf17a" "_1984_" %}}. Book One. New York, NY: Signet Classic, pp. 1-104. ISBN: 9780451524935. (Required Book)
+Orwell, George. [_1984_](http://www.online-literature.com/orwell/1984/). Book One. New York, NY: Signet Classic, pp. 1-104. ISBN: 9780451524935. (Required Book)
 
-Tzu, Sun. {{% resource_link "3a01939e-2147-449e-869f-abc448a529dc" "_Art of War_" %}}. Translated by Lionel Giles. Sections I-VIII, The Internet Classics Archive.
+Tzu, Sun. [_Art of War_](http://classics.mit.edu//Tzu/artwar.html). Translated by Lionel Giles. Sections I-VIII, The Internet Classics Archive.
 
-Thucydides. "Outbreak of War." In {{% resource_link "f068c5df-d222-4bd7-9ea7-7945bd715476" "_History of the Peloponnesian War_" %}}. Penguin Classics. Book II, pp. 124-193.
+Thucydides. "Outbreak of War." In [_History of the Peloponnesian War_](http://classics.mit.edu/Thucydides/pelopwar.html). Penguin Classics. Book II, pp. 124-193.
 
 Van Creveld, Martin. _Technology and War: From 2000 B.C. to the Present_. New York, NY: Free Press, 1989, Chapters 1-3 (pp. 9-50), chapter 5 (pp. 67-78). ISBN: 9780029331514.
 
@@ -321,7 +321,7 @@ Patriot Act (Web)
 
 War Against Terror (Web)
 
-"{{% resource_link "20d0c4c7-6945-44b6-b28b-9eb28d30fc8e" "Author Dilip Hiro On Operation Iraqi Freedom and the Collapse of American Power in the Middle East" %}}." _Democracy Now_. Thursday, February 12, 2004.
+"[Author Dilip Hiro On Operation Iraqi Freedom and the Collapse of American Power in the Middle East](https://www.democracynow.org/shows/2004/2/12)." _Democracy Now_. Thursday, February 12, 2004.
 
 
 {{< tdclose >}}
@@ -521,7 +521,7 @@ Hiro, Dilip. _War Without End:_ _The Rise of Islamist Terrorism and the Global R
 
 "Islamist Terrorism and Global Response." pp. 267-434.
 
-Agamben, Giorgio. "{{% resource_link "89f14047-47ad-420a-84d7-c22a2664d8b1" "We Refugees" %}}."
+Agamben, Giorgio. "[We Refugees](http://www.faculty.umb.edu/gary_zabel/Courses/Phil%20108-08/We%20Refugees%20-%20Giorgio%20Agamben%20-%201994.htm)."
 
 Black, Edwin. _Banking on Baghdad: Inside Iraq's 7,000-Year History of War, Profit, and Conflict_. New York, NY: John Wiley & Sons, 2004, chapters 13-17, pp. 211-352. ISBN: 9780471671862.
 
