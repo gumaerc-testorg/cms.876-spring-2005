@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/cms-876-history-of-media-and-technology-spring-2005/9f5503c344db5b4f5533009552a43aa7_cms-876s05-th.jpg
+file: /courses/cms-876-history-of-media-and-technology-spring-2005/9f5503c344db5b4f5533009552a43aa7_cms-876s05-th.jpg
 file_size: 5777
 file_type: image/jpeg
 image_metadata:
